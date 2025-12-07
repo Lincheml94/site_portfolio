@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u_l_l_e.ss12" format="1">
+  <advance width="1333"/>
+  <unicode hex="F5170"/>
+  <outline>
+    <component base="u" identifier="5867C69F"/>
+    <component base="l_l_e" xOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 15:37:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5867C69F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

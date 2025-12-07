@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="1">
+  <advance width="764"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="75" y="708" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="338" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="243" type="line"/>
+      <point x="299" y="416" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="466" type="line"/>
+      <point x="482" y="293" type="line"/>
+      <point x="820" y="708" type="line"/>
+      <point x="567" y="708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 15:45:46 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typemytype.robofont.guides</key>
+        <array>
+          <dict>
+            <key>angle</key>
+            <integer>90</integer>
+            <key>isGlobal</key>
+            <integer>0</integer>
+            <key>magnetic</key>
+            <integer>5</integer>
+            <key>x</key>
+            <integer>50</integer>
+            <key>y</key>
+            <integer>16</integer>
+          </dict>
+          <dict>
+            <key>angle</key>
+            <integer>90</integer>
+            <key>isGlobal</key>
+            <integer>0</integer>
+            <key>magnetic</key>
+            <integer>5</integer>
+            <key>x</key>
+            <integer>490</integer>
+            <key>y</key>
+            <integer>36</integer>
+          </dict>
+          <dict>
+            <key>angle</key>
+            <integer>0</integer>
+            <key>isGlobal</key>
+            <integer>0</integer>
+            <key>magnetic</key>
+            <integer>5</integer>
+            <key>x</key>
+            <integer>511</integer>
+            <key>y</key>
+            <integer>352</integer>
+          </dict>
+        </array>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

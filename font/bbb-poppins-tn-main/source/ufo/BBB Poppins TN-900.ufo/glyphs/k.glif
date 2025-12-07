@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="1">
+  <advance width="674"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="50" y="740" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="564" type="line"/>
+      <point x="272" y="291" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="487" y="298" type="line"/>
+      <point x="494" y="271" type="line"/>
+      <point x="671" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:50:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typemytype.robofont.guides</key>
+        <array>
+          <dict>
+            <key>angle</key>
+            <integer>0</integer>
+            <key>isGlobal</key>
+            <integer>0</integer>
+            <key>magnetic</key>
+            <integer>5</integer>
+            <key>x</key>
+            <integer>86</integer>
+            <key>y</key>
+            <integer>740</integer>
+          </dict>
+        </array>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>ascender</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,0.5</string>
+    </dict>
+  </lib>
+</glyph>

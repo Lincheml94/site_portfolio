@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex" format="1">
+  <advance width="609"/>
+  <unicode hex="00E2"/>
+  <outline>
+    <component base="circumflex" xOffset="186" identifier="4F13B617"/>
+    <component base="a" identifier="2267277F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 08:49:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>acircumflex</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>acircumflex</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2267277F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4F13B617</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="1">
+  <advance width="413"/>
+  <unicode hex="0029"/>
+  <outline>
+    <component base="parenleft" xScale="-1" xOffset="413" identifier="CC90CAC2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:12:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|parenleft</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>3</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CC90CAC2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

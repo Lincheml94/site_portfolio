@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent" format="1">
+  <advance width="775"/>
+  <unicode hex="0120"/>
+  <outline>
+    <component base="G"/>
+    <component base="dotaccent" xOffset="316" yOffset="145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 17:19:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

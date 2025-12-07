@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f.ss07" format="1">
+  <advance width="709"/>
+  <outline>
+    <contour>
+      <point x="93" y="570" type="curve" smooth="yes"/>
+      <point x="93" y="0" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="208" y="590" type="line" smooth="yes"/>
+      <point x="208" y="653"/>
+      <point x="232" y="679"/>
+      <point x="302" y="679" type="curve" smooth="yes"/>
+      <point x="349" y="679" type="line"/>
+      <point x="349" y="772" type="line"/>
+      <point x="302" y="772" type="line" smooth="yes"/>
+      <point x="158" y="772"/>
+      <point x="93" y="697"/>
+    </contour>
+    <contour>
+      <point x="126" y="458" type="line"/>
+      <point x="126" y="551" type="line"/>
+      <point x="28" y="551" type="line"/>
+      <point x="28" y="458" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="551" type="line"/>
+      <point x="208" y="458" type="line"/>
+      <point x="379" y="458" type="line"/>
+      <point x="379" y="551" type="line"/>
+    </contour>
+    <component base="f.ss07" xOffset="344"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 17:18:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>f</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

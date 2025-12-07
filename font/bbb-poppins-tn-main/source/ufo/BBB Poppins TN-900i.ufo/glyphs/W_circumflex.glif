@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="1100"/>
+  <unicode hex="0174"/>
+  <outline>
+    <component base="W" identifier="BE266FFB"/>
+    <component base="circumflex" xOffset="375" yOffset="144" identifier="95DE9683"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 13:51:38 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>95DE9683</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BE266FFB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

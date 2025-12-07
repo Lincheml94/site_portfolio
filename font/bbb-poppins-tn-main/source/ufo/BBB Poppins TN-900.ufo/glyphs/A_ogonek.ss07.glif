@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek.ss07" format="1">
+  <advance width="773"/>
+  <outline>
+    <component base="A.ss07"/>
+    <component base="ogonek" xOffset="481"/>
+    <contour>
+      <point x="773" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 13:51:38 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

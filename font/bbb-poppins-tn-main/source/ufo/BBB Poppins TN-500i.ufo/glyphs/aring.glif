@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring" format="1">
+  <advance width="609"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <component base="ring" xOffset="220" identifier="730E228F"/>
+    <component base="a" identifier="BBD8D46F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 08:48:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>aring</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aring</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>730E228F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBD8D46F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

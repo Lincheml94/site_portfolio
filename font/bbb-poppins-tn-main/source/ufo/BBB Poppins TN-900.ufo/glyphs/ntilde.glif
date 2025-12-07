@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="1">
+  <advance width="697"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

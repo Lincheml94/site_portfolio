@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute" format="1">
+  <advance width="264"/>
+  <unicode hex="00CD"/>
+  <outline>
+    <component base="I"/>
+    <component base="acute" xOffset="4" yOffset="145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

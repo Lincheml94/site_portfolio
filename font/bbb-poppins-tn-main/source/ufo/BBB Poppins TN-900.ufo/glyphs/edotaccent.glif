@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotaccent" format="1">
+  <advance width="616"/>
+  <unicode hex="0117"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotaccent" xOffset="211" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:39:22 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

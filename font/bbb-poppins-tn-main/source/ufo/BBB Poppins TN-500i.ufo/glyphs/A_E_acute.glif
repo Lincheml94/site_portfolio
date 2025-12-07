@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="1">
+  <advance width="921"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <component base="AE" identifier="A38E93AF"/>
+    <component base="acute" xOffset="430" yOffset="147" identifier="F9722249"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:23 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>989</integer>
+          <key>y</key>
+          <integer>728</integer>
+        </dict>
+      </array>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A38E93AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F9722249</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

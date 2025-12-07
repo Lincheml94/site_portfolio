@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f" format="1">
+  <advance width="665"/>
+  <outline>
+    <contour>
+      <point x="302" y="551" type="line"/>
+      <point x="302" y="458" type="line"/>
+      <point x="430" y="458" type="line"/>
+      <point x="430" y="551" type="line"/>
+    </contour>
+    <component base="f"/>
+    <component base="f" xOffset="332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 10:33:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

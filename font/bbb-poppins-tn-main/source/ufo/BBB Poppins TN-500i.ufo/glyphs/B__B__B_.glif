@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B_B_B" format="1">
+  <advance width="986"/>
+  <outline>
+    <component base="B" xOffset="361" yOffset="-112" identifier="AC5B3BDE"/>
+    <component base="B" xScale="-1" xOffset="625" yOffset="-112" identifier="B9612079"/>
+    <component base="B" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="847" yOffset="415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|B</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>B</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AC5B3BDE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B9612079</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

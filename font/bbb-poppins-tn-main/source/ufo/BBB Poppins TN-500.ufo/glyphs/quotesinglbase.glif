@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="219"/>
+  <unicode hex="201A"/>
+  <outline>
+    <component base="quoteright" yOffset="-606"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:12:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quoteright.ss05</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quoteright.ss05</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>190</integer>
+          <key>y</key>
+          <integer>134</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,0.5</string>
+    </dict>
+  </lib>
+</glyph>

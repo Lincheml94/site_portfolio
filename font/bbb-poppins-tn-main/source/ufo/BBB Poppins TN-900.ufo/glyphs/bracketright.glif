@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="1">
+  <advance width="533"/>
+  <unicode hex="005D"/>
+  <outline>
+    <component base="bracketleft" xScale="-1" xOffset="533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

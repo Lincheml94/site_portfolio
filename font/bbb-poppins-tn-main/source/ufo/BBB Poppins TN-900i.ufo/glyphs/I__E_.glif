@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_E" format="1">
+  <advance width="681"/>
+  <unicode hex="F2610"/>
+  <outline>
+    <contour>
+      <point x="96" y="708" type="line"/>
+      <point x="65" y="532" type="line"/>
+      <point x="389" y="532" type="line"/>
+      <point x="420" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="176" type="line"/>
+      <point x="-28" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="327" y="176" type="line"/>
+    </contour>
+    <component base="E" xOffset="119"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 15:01:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>

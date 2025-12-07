@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute_E" format="1">
+  <advance width="924"/>
+  <unicode hex="F1820"/>
+  <outline>
+    <contour>
+      <point x="400" y="696" type="line"/>
+      <point x="400" y="603" type="line"/>
+      <point x="546" y="603" type="line"/>
+      <point x="546" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="93" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="399" type="line"/>
+      <point x="400" y="306" type="line"/>
+      <point x="546" y="306" type="line"/>
+      <point x="546" y="399" type="line"/>
+    </contour>
+    <component base="Eacute"/>
+    <component base="E" xOffset="402" identifier="BA6B0309"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 17:18:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BA6B0309</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

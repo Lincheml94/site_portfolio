@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="1">
+  <advance width="319"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period"/>
+    <component base="period" yOffset="396"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

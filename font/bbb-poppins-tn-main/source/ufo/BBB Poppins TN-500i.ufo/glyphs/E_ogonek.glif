@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek" format="1">
+  <advance width="524"/>
+  <unicode hex="0118"/>
+  <outline>
+    <component base="E"/>
+    <component base="ogonek" xOffset="250" identifier="7B1A5D69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 10:51:04 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7B1A5D69</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a_u_l_a" format="1">
+  <advance width="2360"/>
+  <outline>
+    <contour>
+      <point x="1537" y="80" type="curve"/>
+      <point x="1537" y="0" type="line"/>
+      <point x="1653" y="0" type="line"/>
+      <point x="1653" y="413" type="line"/>
+      <point x="1537" y="413" type="line"/>
+      <point x="1537" y="331" type="line"/>
+      <point x="1381" y="331" type="line" smooth="yes"/>
+      <point x="1225" y="331"/>
+      <point x="1159" y="249"/>
+      <point x="1159" y="155" type="curve" smooth="yes"/>
+      <point x="1159" y="60"/>
+      <point x="1238" y="-10"/>
+      <point x="1346" y="-10" type="curve" smooth="yes"/>
+      <point x="1430" y="-10"/>
+      <point x="1505" y="32"/>
+    </contour>
+    <contour>
+      <point x="1370" y="90" type="curve" smooth="yes"/>
+      <point x="1310" y="90"/>
+      <point x="1276" y="120"/>
+      <point x="1276" y="164" type="curve" smooth="yes"/>
+      <point x="1276" y="205"/>
+      <point x="1305" y="239"/>
+      <point x="1381" y="239" type="curve" smooth="yes"/>
+      <point x="1537" y="239" type="line"/>
+      <point x="1537" y="238" type="line"/>
+      <point x="1537" y="136"/>
+      <point x="1443" y="90"/>
+    </contour>
+    <component base="agrave"/>
+    <component base="l" xOffset="850" identifier="6BAC4B09"/>
+    <component base="a" xOffset="1114" yOffset="384" identifier="464D9CEC"/>
+    <component base="u" xOffset="1711" yOffset="384" identifier="81743D23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-11 08:29:31 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>1375</integer>
+          <key>y</key>
+          <integer>935</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>464D9CEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6BAC4B09</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>81743D23</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

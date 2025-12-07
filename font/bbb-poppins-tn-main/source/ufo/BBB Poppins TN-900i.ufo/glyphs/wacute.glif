@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wacute" format="1">
+  <advance width="903"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <component base="w" identifier="4B8B3F2B"/>
+    <component base="acute" xOffset="313" identifier="32318BA6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>32318BA6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4B8B3F2B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

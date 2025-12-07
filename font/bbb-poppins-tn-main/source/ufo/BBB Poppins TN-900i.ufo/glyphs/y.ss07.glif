@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.ss07" format="1">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="266" y="564" type="line"/>
+      <point x="50" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="471" y="564" type="line"/>
+      <point x="110" y="-270" type="line"/>
+      <point x="340" y="-270" type="line"/>
+      <point x="701" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="564" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 13:59:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

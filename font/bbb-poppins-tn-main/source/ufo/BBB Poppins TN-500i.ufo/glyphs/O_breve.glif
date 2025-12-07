@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="1">
+  <advance width="782"/>
+  <unicode hex="014E"/>
+  <outline>
+    <component base="O"/>
+    <component base="breve" xOffset="257" yOffset="153"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 10:45:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

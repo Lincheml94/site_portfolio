@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa.ss07" format="1">
+  <advance width="617"/>
+  <outline>
+    <component base="e.ss07" xScale="-1" yScale="-1" xOffset="617" yOffset="551"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 13:51:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

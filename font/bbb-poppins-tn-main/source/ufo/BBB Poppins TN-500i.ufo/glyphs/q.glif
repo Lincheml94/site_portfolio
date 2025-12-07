@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="1">
+  <advance width="666"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="65" y="448"/>
+      <point x="35" y="278" type="curve" smooth="yes"/>
+      <point x="5" y="108"/>
+      <point x="100" y="-9"/>
+      <point x="242" y="-9" type="curve" smooth="yes"/>
+      <point x="335" y="-9"/>
+      <point x="412" y="37"/>
+      <point x="451" y="80" type="curve"/>
+      <point x="391" y="-262" type="line"/>
+      <point x="506" y="-262" type="line"/>
+      <point x="649" y="551" type="line"/>
+      <point x="534" y="551" type="line"/>
+      <point x="520" y="471" type="line"/>
+      <point x="496" y="516"/>
+      <point x="437" y="560"/>
+      <point x="346" y="560" type="curve" smooth="yes"/>
+      <point x="200" y="560"/>
+    </contour>
+    <contour>
+      <point x="507" y="394"/>
+      <point x="486" y="276" type="curve" smooth="yes"/>
+      <point x="465" y="157"/>
+      <point x="372" y="90"/>
+      <point x="286" y="90" type="curve" smooth="yes"/>
+      <point x="201" y="90"/>
+      <point x="131" y="159"/>
+      <point x="152" y="278" type="curve" smooth="yes"/>
+      <point x="173" y="397"/>
+      <point x="267" y="461"/>
+      <point x="352" y="461" type="curve" smooth="yes"/>
+      <point x="438" y="461"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 09:13:27 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>-450</integer>
+          <key>y</key>
+          <integer>64</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

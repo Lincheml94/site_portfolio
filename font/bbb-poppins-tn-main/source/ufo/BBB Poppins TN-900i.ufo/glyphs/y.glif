@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="1">
+  <advance width="692"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="40" y="564" type="line"/>
+      <point x="180" y="28" type="line"/>
+      <point x="-14" y="-270" type="line"/>
+      <point x="229" y="-270" type="line"/>
+      <point x="737" y="564" type="line"/>
+      <point x="492" y="564" type="line"/>
+      <point x="342" y="278" type="line"/>
+      <point x="287" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="564" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 09:33:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>v</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

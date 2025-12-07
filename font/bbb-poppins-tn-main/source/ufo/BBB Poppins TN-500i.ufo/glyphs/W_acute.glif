@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute" format="1">
+  <advance width="999"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <component base="W" identifier="C448C7B9"/>
+    <component base="acute" xOffset="430" yOffset="150" identifier="215AB9A4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>1220</integer>
+          <key>y</key>
+          <integer>728</integer>
+        </dict>
+      </array>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>215AB9A4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C448C7B9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

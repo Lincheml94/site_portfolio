@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.ss07" format="1">
+  <advance width="581"/>
+  <outline>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="137" y="551" type="line"/>
+      <point x="10" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="551" type="line"/>
+      <point x="205" y="-259" type="line"/>
+      <point x="323" y="-259" type="line"/>
+      <point x="571" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="551" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 13:51:38 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

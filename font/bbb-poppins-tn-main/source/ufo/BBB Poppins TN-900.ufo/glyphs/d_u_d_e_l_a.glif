@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_u_d_e_l_a" format="1">
+  <advance width="2434"/>
+  <unicode hex="F1730"/>
+  <outline>
+    <contour>
+      <point x="912" y="747" type="curve" smooth="yes"/>
+      <point x="912" y="956" type="line"/>
+      <point x="690" y="956" type="line"/>
+      <point x="690" y="719" type="line" smooth="yes"/>
+      <point x="690" y="558"/>
+      <point x="833" y="478"/>
+      <point x="991" y="478" type="curve" smooth="yes"/>
+      <point x="1171" y="478"/>
+      <point x="1292" y="573"/>
+      <point x="1292" y="719" type="curve" smooth="yes"/>
+      <point x="1292" y="956" type="line"/>
+      <point x="1070" y="956" type="line"/>
+      <point x="1070" y="747" type="line" smooth="yes"/>
+      <point x="1070" y="693"/>
+      <point x="1039" y="660"/>
+      <point x="991" y="660" type="curve" smooth="yes"/>
+      <point x="943" y="660"/>
+      <point x="912" y="693"/>
+    </contour>
+    <contour>
+      <point x="408" y="956" type="line"/>
+      <point x="408" y="593" type="line"/>
+      <point x="630" y="593" type="line"/>
+      <point x="630" y="956" type="line"/>
+    </contour>
+    <component base="d"/>
+    <component base="e" xOffset="683"/>
+    <component base="l" xOffset="1464" identifier="6259A406"/>
+    <component base="a" xOffset="1786" identifier="6711521C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-11 08:42:21 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>1375</integer>
+          <key>y</key>
+          <integer>956</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6259A406</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6711521C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

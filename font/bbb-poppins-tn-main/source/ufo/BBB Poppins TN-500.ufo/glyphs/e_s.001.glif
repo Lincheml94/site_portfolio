@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e_s.001" format="1">
+  <advance width="928"/>
+  <outline>
+    <contour>
+      <point x="554" y="278" type="line"/>
+      <point x="554" y="233" type="line"/>
+      <point x="660" y="233" type="line"/>
+      <point x="660" y="278" type="line"/>
+    </contour>
+    <component base="s" xOffset="398" identifier="CF6B5E90"/>
+    <component base="bout-e" xOffset="-422"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-28 08:52:01 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CF6B5E90</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

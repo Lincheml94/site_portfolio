@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="1">
+  <advance width="717"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="45" y="708" type="line"/>
+      <point x="45" y="309" type="line" smooth="yes"/>
+      <point x="45" y="100"/>
+      <point x="175" y="-7"/>
+      <point x="352" y="-7" type="curve" smooth="yes"/>
+      <point x="529" y="-7"/>
+      <point x="672" y="100"/>
+      <point x="672" y="309" type="curve" smooth="yes"/>
+      <point x="672" y="708" type="line"/>
+      <point x="451" y="708" type="line"/>
+      <point x="451" y="309" type="line" smooth="yes"/>
+      <point x="451" y="248"/>
+      <point x="424" y="203"/>
+      <point x="357" y="203" type="curve" smooth="yes"/>
+      <point x="290" y="203"/>
+      <point x="266" y="248"/>
+      <point x="266" y="309" type="curve" smooth="yes"/>
+      <point x="266" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="3" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="359" y="711" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 16:46:30 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

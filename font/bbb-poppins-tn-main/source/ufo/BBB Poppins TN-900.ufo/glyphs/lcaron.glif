@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="1">
+  <advance width="322"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="caron" xOffset="-13" yOffset="176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-03 11:39:56 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

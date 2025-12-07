@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve" format="1">
+  <advance width="609"/>
+  <unicode hex="0103"/>
+  <outline>
+    <component base="breve" xOffset="179" identifier="5F03FBCB"/>
+    <component base="a" identifier="75B37D81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>abreve</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>abreve</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5F03FBCB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>75B37D81</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

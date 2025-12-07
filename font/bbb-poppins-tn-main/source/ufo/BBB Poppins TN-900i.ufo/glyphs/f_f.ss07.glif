@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f.ss07" format="1">
+  <advance width="911"/>
+  <outline>
+    <contour>
+      <point x="467" y="564" type="line"/>
+      <point x="437" y="379" type="line"/>
+      <point x="565" y="379" type="line"/>
+      <point x="595" y="564" type="line"/>
+    </contour>
+    <component base="f.ss07"/>
+    <component base="f.ss07" xOffset="448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 13:59:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>f</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

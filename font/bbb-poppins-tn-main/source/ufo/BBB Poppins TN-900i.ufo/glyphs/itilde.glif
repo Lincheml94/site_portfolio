@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="1">
+  <advance width="372"/>
+  <unicode hex="0129"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="tilde" xOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

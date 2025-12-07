@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="1">
+  <advance width="986"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <component base="AE" identifier="FD3F8FD5"/>
+    <component base="acute" xOffset="337" yOffset="144" identifier="3A9D1DA7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3A9D1DA7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FD3F8FD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

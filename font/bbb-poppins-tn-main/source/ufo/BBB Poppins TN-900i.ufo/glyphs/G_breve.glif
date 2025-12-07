@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbreve" format="1">
+  <advance width="762"/>
+  <unicode hex="011E"/>
+  <outline>
+    <component base="G"/>
+    <component base="breve" xOffset="210" yOffset="147"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 10:52:29 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

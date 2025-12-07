@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.ss07" format="1">
+  <advance width="463"/>
+  <outline>
+    <contour>
+      <point x="119" y="559" type="curve" smooth="yes"/>
+      <point x="20" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="337" y="539" type="line" smooth="yes"/>
+      <point x="347" y="595"/>
+      <point x="372" y="604"/>
+      <point x="432" y="604" type="curve" smooth="yes"/>
+      <point x="503" y="604" type="line"/>
+      <point x="537" y="793" type="line"/>
+      <point x="465" y="793" type="line" smooth="yes"/>
+      <point x="274" y="793"/>
+      <point x="148" y="722"/>
+    </contour>
+    <contour>
+      <point x="178" y="379" type="line"/>
+      <point x="236" y="564" type="line"/>
+      <point x="60" y="564" type="line"/>
+      <point x="27" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="456" y="564" type="line"/>
+      <point x="309" y="379" type="line"/>
+      <point x="465" y="379" type="line"/>
+      <point x="498" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 13:59:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typemytype.robofont.layerData</key>
+        <dict>
+          <key>b</key>
+          <dict>
+            <key>anchors</key>
+            <array>
+            </array>
+            <key>components</key>
+            <array>
+            </array>
+            <key>contours</key>
+            <array>
+              <dict>
+                <key>points</key>
+                <array>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>108</integer>
+                    <key>y</key>
+                    <integer>0</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>128</integer>
+                    <key>y</key>
+                    <integer>0</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>1</integer>
+                    <key>x</key>
+                    <integer>128</integer>
+                    <key>y</key>
+                    <integer>609</integer>
+                  </dict>
+                  <dict>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>128</integer>
+                    <key>y</key>
+                    <integer>701</integer>
+                  </dict>
+                  <dict>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>162</integer>
+                    <key>y</key>
+                    <integer>742</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>curve</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>275</integer>
+                    <key>y</key>
+                    <integer>742</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>275</integer>
+                    <key>y</key>
+                    <integer>753</integer>
+                  </dict>
+                  <dict>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>158</integer>
+                    <key>y</key>
+                    <integer>753</integer>
+                  </dict>
+                  <dict>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>108</integer>
+                    <key>y</key>
+                    <integer>711</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>curve</string>
+                    <key>smooth</key>
+                    <integer>1</integer>
+                    <key>x</key>
+                    <integer>108</integer>
+                    <key>y</key>
+                    <integer>609</integer>
+                  </dict>
+                </array>
+              </dict>
+            </array>
+            <key>lib</key>
+            <dict>
+            </dict>
+            <key>name</key>
+            <string>f</string>
+            <key>unicodes</key>
+            <array>
+            </array>
+            <key>width</key>
+            <integer>318</integer>
+          </dict>
+        </dict>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>ascender</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>80.28</real>
+          <key>x</key>
+          <integer>493</integer>
+          <key>y</key>
+          <integer>539</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

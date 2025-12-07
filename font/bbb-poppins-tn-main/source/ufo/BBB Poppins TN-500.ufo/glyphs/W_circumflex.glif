@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="999"/>
+  <unicode hex="0174"/>
+  <outline>
+    <component base="circumflex" xOffset="342" yOffset="150" identifier="C8E6FBD5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>306</integer>
+          <key>y</key>
+          <integer>748</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C8E6FBD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

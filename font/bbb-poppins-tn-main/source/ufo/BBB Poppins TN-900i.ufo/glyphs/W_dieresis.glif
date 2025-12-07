@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="1">
+  <advance width="1100"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <component base="W" identifier="DB0D0019"/>
+    <component base="dieresis" xOffset="342" yOffset="144" identifier="609D4401"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>609D4401</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DB0D0019</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

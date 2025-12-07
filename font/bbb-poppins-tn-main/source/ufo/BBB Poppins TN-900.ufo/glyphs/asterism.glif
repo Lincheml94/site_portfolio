@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterism" format="1">
+  <advance width="961"/>
+  <unicode hex="2042"/>
+  <outline>
+    <component base="asterisk.alt" xOffset="196"/>
+    <component base="asterisk.alt" xOffset="377" yOffset="-309"/>
+    <component base="asterisk.alt" xOffset="7" yOffset="-308"/>
+    <component base="asterisk.alt" xScale="0.5" yScale="0.5" xOffset="366" yOffset="-280"/>
+    <component base="asterisk.alt" xScale="0.5" yScale="0.5" xOffset="667" yOffset="288"/>
+    <component base="asterisk.alt" xScale="0.5" yScale="0.5" xOffset="8" yOffset="257"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:11:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>

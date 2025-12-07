@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aeacute.ss02" format="1">
+  <advance width="1088"/>
+  <outline>
+    <component base="ae.ss02" identifier="0E2CF83B"/>
+    <component base="acute" xOffset="480" identifier="861C03AA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0E2CF83B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>861C03AA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="1">
+  <advance width="654"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="356" y="400" type="curve"/>
+      <point x="293" y="400" type="line"/>
+      <point x="316" y="530" type="line"/>
+      <point x="379" y="530" type="line" smooth="yes"/>
+      <point x="429" y="530"/>
+      <point x="443" y="504"/>
+      <point x="436" y="465" type="curve"/>
+      <point x="429" y="426"/>
+      <point x="406" y="400"/>
+    </contour>
+    <contour>
+      <point x="638" y="334"/>
+      <point x="661" y="465" type="curve"/>
+      <point x="686" y="608"/>
+      <point x="613" y="708"/>
+      <point x="435" y="708" type="curve" smooth="yes"/>
+      <point x="125" y="708" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="262" y="225" type="line"/>
+      <point x="350" y="225" type="line" smooth="yes"/>
+      <point x="528" y="225"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 11:00:02 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r_i.ss10" format="1">
+  <advance width="603"/>
+  <unicode hex="F4571"/>
+  <outline>
+    <contour>
+      <point x="155" y="330" type="curve"/>
+      <point x="189" y="290" type="line"/>
+      <point x="189" y="407"/>
+      <point x="320" y="622"/>
+      <point x="484" y="622" type="curve" smooth="yes"/>
+      <point x="533" y="622" type="line"/>
+      <point x="533" y="740" type="line"/>
+      <point x="485" y="740" type="line" smooth="yes"/>
+      <point x="287" y="740"/>
+      <point x="155" y="454"/>
+    </contour>
+    <contour>
+      <point x="75" y="551" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="551" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 13:03:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>r</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

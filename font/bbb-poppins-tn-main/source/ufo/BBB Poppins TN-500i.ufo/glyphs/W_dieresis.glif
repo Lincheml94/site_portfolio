@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="1">
+  <advance width="999"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <component base="W" identifier="D2214FDF"/>
+    <component base="dieresis" xOffset="339" yOffset="147" identifier="F68C2EBA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>854</integer>
+          <key>y</key>
+          <integer>747</integer>
+        </dict>
+      </array>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D2214FDF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F68C2EBA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

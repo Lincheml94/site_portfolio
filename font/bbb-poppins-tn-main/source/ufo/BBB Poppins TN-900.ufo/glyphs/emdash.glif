@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="1">
+  <advance width="886"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="30" y="396" type="line"/>
+      <point x="30" y="213" type="line"/>
+      <point x="856" y="213" type="line"/>
+      <point x="856" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-28 08:39:27 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

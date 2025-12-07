@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="1">
+  <advance width="779"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="552" y="0" type="line"/>
+      <point x="407" y="708" type="line"/>
+      <point x="228" y="708" type="line"/>
+      <point x="374" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="0" type="line"/>
+      <point x="729" y="0" type="line"/>
+      <point x="729" y="708" type="line"/>
+      <point x="507" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="272" y="708" type="line"/>
+      <point x="50" y="708" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="389" y="711" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 15:24:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>10</integer>
+          <key>y</key>
+          <integer>540</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,0.5</string>
+    </dict>
+  </lib>
+</glyph>

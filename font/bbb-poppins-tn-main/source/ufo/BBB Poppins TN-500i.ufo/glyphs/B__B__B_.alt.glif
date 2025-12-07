@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B_B_B.alt" format="1">
+  <advance width="751"/>
+  <outline>
+    <component base="B" xScale="-0.5049" yScale="-0.5049" xOffset="382" yOffset="351" identifier="53597343"/>
+    <component base="B" xScale="0.2524" xyScale="0.4372" yScale="0.2524" yxScale="-0.4372" xOffset="325" yOffset="318" identifier="8EC9A523"/>
+    <component base="B" xScale="0.2524" xyScale="-0.4372" yScale="0.2524" yxScale="0.4372" xOffset="325" yOffset="384" identifier="8C904146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>53597343</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8C904146</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8EC9A523</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

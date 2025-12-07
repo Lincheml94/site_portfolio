@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x_c" format="1">
+  <advance width="785"/>
+  <unicode hex="F5710"/>
+  <outline>
+    <contour>
+      <point x="231" y="188" type="line"/>
+      <point x="305" y="282" type="line"/>
+      <point x="178" y="551" type="line"/>
+      <point x="60" y="551" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="225" type="line"/>
+      <point x="222" y="313" type="line"/>
+      <point x="-39" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <component base="c" xOffset="206" identifier="9BF22AFC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-13 16:08:59 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>c</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9BF22AFC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

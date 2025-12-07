@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="1">
+  <advance width="999"/>
+  <unicode hex="1E80"/>
+  <outline>
+    <component base="W" identifier="C20DB3C6"/>
+    <component base="grave" xOffset="339" yOffset="145" identifier="C53581C2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:43:24 +0000</string>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>722</integer>
+          <key>y</key>
+          <integer>717</integer>
+        </dict>
+      </array>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C20DB3C6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C53581C2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

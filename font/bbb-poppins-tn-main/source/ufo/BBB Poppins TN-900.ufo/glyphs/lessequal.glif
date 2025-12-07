@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="1">
+  <advance width="492"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="48" y="111" type="line"/>
+      <point x="48" y="-60" type="line"/>
+      <point x="472" y="-60" type="line"/>
+      <point x="472" y="111" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="195" type="line"/>
+      <point x="286" y="382" type="line"/>
+      <point x="286" y="368" type="line"/>
+      <point x="472" y="556" type="line"/>
+      <point x="200" y="556" type="line"/>
+      <point x="20" y="375" type="line"/>
+      <point x="200" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+        <key>com.typemytype.robofont.layerData</key>
+        <dict>
+          <key>b</key>
+          <dict>
+            <key>anchors</key>
+            <array>
+            </array>
+            <key>components</key>
+            <array>
+            </array>
+            <key>contours</key>
+            <array>
+              <dict>
+                <key>points</key>
+                <array>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>57</integer>
+                    <key>y</key>
+                    <integer>442</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>57</integer>
+                    <key>y</key>
+                    <integer>398</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>365</integer>
+                    <key>y</key>
+                    <integer>618</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>325</integer>
+                    <key>y</key>
+                    <integer>618</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>49</integer>
+                    <key>y</key>
+                    <integer>419</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>325</integer>
+                    <key>y</key>
+                    <integer>221</integer>
+                  </dict>
+                  <dict>
+                    <key>segmentType</key>
+                    <string>line</string>
+                    <key>smooth</key>
+                    <integer>0</integer>
+                    <key>x</key>
+                    <integer>365</integer>
+                    <key>y</key>
+                    <integer>221</integer>
+                  </dict>
+                </array>
+              </dict>
+            </array>
+            <key>lib</key>
+            <dict>
+            </dict>
+            <key>name</key>
+            <string>lessequal</string>
+            <key>unicodes</key>
+            <array>
+            </array>
+            <key>width</key>
+            <integer>392</integer>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

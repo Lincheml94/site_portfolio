@@ -1,11 +1,11 @@
 @font-face {
     font-family: dindong;
-    src: url(/font/ttf_dindong/DINdong.ttf);
+    src: url(/font/dindong-main/ttf/DINdong.ttf);
 }
 
 @font-face {
     font-family: poppins;
-    src: url(/font/ttf_poppins_tn_main/BBBPoppinsTN-DisplayBlack.ttf);
+    src: url(/font/bbb-poppins-tn-main/ttf/BBBPoppinsTN-DisplayBlack.ttf);
 }
 
 html {
@@ -14,4 +14,17 @@ html {
 
 body {
     font-family: dindong;
+    }
+
+    header{
+        height: 5vh;
+        display: flex;
+        align-items: center;
+        background-color: aqua;
+        .info{
+            display: flex;
+        }
+        .liens{
+            display: flex;
+        }
     }

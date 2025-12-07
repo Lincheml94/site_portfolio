@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_h_e.ss12" format="1">
+  <advance width="1314"/>
+  <unicode hex="F1520"/>
+  <outline>
+    <component base="c_h"/>
+    <component base="bout-e" xOffset="710"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-13 16:06:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,0.5</string>
+    </dict>
+  </lib>
+</glyph>

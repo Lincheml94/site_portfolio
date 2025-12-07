@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="1">
+  <advance width="746"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="571" y="708"/>
+      <point x="345" y="708" type="curve" smooth="yes"/>
+      <point x="50" y="708" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="345" y="0" type="line" smooth="yes"/>
+      <point x="571" y="0"/>
+      <point x="713" y="154"/>
+      <point x="713" y="356" type="curve" smooth="yes"/>
+      <point x="713" y="560"/>
+    </contour>
+    <contour>
+      <point x="325" y="198" type="curve" smooth="yes"/>
+      <point x="272" y="198" type="line"/>
+      <point x="272" y="514" type="line"/>
+      <point x="325" y="514" type="line" smooth="yes"/>
+      <point x="423" y="514"/>
+      <point x="488" y="459"/>
+      <point x="488" y="356" type="curve" smooth="yes"/>
+      <point x="488" y="253"/>
+      <point x="423" y="198"/>
+    </contour>
+    <contour>
+      <point x="359" y="711" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 15:16:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typemytype.robofont.guides</key>
+        <array>
+          <dict>
+            <key>angle</key>
+            <integer>0</integer>
+            <key>isGlobal</key>
+            <integer>0</integer>
+            <key>magnetic</key>
+            <integer>5</integer>
+            <key>x</key>
+            <integer>122</integer>
+            <key>y</key>
+            <integer>684</integer>
+          </dict>
+        </array>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

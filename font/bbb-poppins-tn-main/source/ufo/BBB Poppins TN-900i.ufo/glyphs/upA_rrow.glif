@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow" format="1">
+  <advance width="757"/>
+  <unicode hex="2191"/>
+  <outline>
+    <component base="rightArrow" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="653" yOffset="-97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t_e.ss10" format="1">
+  <advance width="1384"/>
+  <unicode hex="F4981"/>
+  <outline>
+    <contour>
+      <point x="228" y="378" type="line"/>
+      <point x="572" y="378" type="line"/>
+      <point x="572" y="564" type="line"/>
+      <point x="228" y="564" type="line"/>
+    </contour>
+    <component base="t"/>
+    <component base="t_e.ss10" xOffset="436" identifier="3CB9D56E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-11 08:56:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3CB9D56E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

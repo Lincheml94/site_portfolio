@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow" format="1">
+  <advance width="780"/>
+  <unicode hex="2196"/>
+  <outline>
+    <component base="northEastArrow" xScale="-1" xOffset="780" yOffset="-1" identifier="9F83EF90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9F83EF90</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

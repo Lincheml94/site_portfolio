@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bout-e" format="1">
+  <advance width="960"/>
+  <outline>
+    <contour>
+      <point x="374" y="282" type="line"/>
+      <point x="374" y="243" type="line"/>
+      <point x="947" y="243" type="line"/>
+      <point x="949" y="257"/>
+      <point x="950" y="273"/>
+      <point x="950" y="287" type="curve" smooth="yes"/>
+      <point x="950" y="464"/>
+      <point x="831" y="571"/>
+      <point x="662" y="571" type="curve" smooth="yes"/>
+      <point x="493" y="571"/>
+      <point x="374" y="462"/>
+      <point x="374" y="282" type="curve"/>
+      <point x="590" y="271" type="line"/>
+      <point x="590" y="311" type="line" smooth="yes"/>
+      <point x="590" y="370"/>
+      <point x="617" y="397"/>
+      <point x="662" y="397" type="curve" smooth="yes"/>
+      <point x="695" y="397"/>
+      <point x="725" y="379"/>
+      <point x="725" y="340" type="curve"/>
+      <point x="418" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-11 08:36:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=e-10</string>
+    </dict>
+  </lib>
+</glyph>

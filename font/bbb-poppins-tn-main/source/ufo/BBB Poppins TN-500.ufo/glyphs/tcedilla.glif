@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla" format="1">
+  <advance width="372"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedilla" xOffset="89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,0.5</string>
+    </dict>
+  </lib>
+</glyph>

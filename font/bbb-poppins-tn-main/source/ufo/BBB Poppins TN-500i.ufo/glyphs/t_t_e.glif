@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t_e" format="1">
+  <advance width="1026"/>
+  <unicode hex="F4980"/>
+  <outline>
+    <contour>
+      <point x="302" y="458" type="line"/>
+      <point x="506" y="458" type="line"/>
+      <point x="522" y="551" type="line"/>
+      <point x="318" y="551" type="line"/>
+    </contour>
+    <component base="t"/>
+    <component base="t_e" xOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 15:04:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="633"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="365" y="-46" type="curve"/>
+      <point x="262" y="-46" type="line"/>
+      <point x="262" y="-142" type="line"/>
+      <point x="315" y="-142" type="line"/>
+      <point x="315" y="-163" type="line" smooth="yes"/>
+      <point x="315" y="-201"/>
+      <point x="300" y="-220"/>
+      <point x="267" y="-220" type="curve"/>
+      <point x="267" y="-270" type="line"/>
+      <point x="341" y="-270"/>
+      <point x="379" y="-228"/>
+      <point x="379" y="-145" type="curve" smooth="yes"/>
+      <point x="379" y="-116"/>
+      <point x="375" y="-83"/>
+    </contour>
+    <contour>
+      <point x="317" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+        <key>com.typesupply.AccentFactory.compileType</key>
+        <string>manual</string>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,0.5</string>
+    </dict>
+  </lib>
+</glyph>

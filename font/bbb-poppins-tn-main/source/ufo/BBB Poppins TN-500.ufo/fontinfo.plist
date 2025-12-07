@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>740</integer>
+    <key>capHeight</key>
+    <integer>695</integer>
+    <key>descender</key>
+    <integer>-262</integer>
+    <key>familyName</key>
+    <string>BBB Poppins TN</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2022/04/28 09:19:36</string>
+    <key>openTypeNameDesigner</key>
+    <string>Johny Pinhorn &amp; Bye Bye Binary (Eugénie Bidaut + Camille Circlude)</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://typotheque.genderfluid.space/</string>
+    <key>openTypeNameLicense</key>
+    <string>OIFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://typotheque.genderfluid.space/licences.html</string>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-8</integer>
+      <integer>0</integer>
+      <integer>551</integer>
+      <integer>561</integer>
+      <integer>695</integer>
+      <integer>705</integer>
+      <integer>740</integer>
+      <integer>760</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>BBBPoppinsTN-Regular</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-273</integer>
+      <integer>-262</integer>
+    </array>
+    <key>styleName</key>
+    <string>500</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>1</integer>
+    <key>xHeight</key>
+    <integer>551</integer>
+  </dict>
+</plist>

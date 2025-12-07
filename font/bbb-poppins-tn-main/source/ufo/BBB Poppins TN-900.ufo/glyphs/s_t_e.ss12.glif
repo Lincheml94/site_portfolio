@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_t_e.ss12" format="1">
+  <advance width="1192"/>
+  <unicode hex="F47D0"/>
+  <outline>
+    <contour>
+      <point x="300" y="-7" type="curve" smooth="yes"/>
+      <point x="450" y="-7"/>
+      <point x="540" y="69"/>
+      <point x="540" y="169" type="curve" smooth="yes"/>
+      <point x="540" y="395"/>
+      <point x="245" y="311"/>
+      <point x="245" y="362" type="curve" smooth="yes"/>
+      <point x="245" y="379"/>
+      <point x="259" y="381"/>
+      <point x="281" y="381" type="curve" smooth="yes"/>
+      <point x="717" y="381" type="line"/>
+      <point x="717" y="564" type="line"/>
+      <point x="302" y="564" type="line" smooth="yes"/>
+      <point x="110" y="564"/>
+      <point x="45" y="487"/>
+      <point x="45" y="385" type="curve" smooth="yes"/>
+      <point x="45" y="148"/>
+      <point x="336" y="246"/>
+      <point x="336" y="172" type="curve" smooth="yes"/>
+      <point x="336" y="158"/>
+      <point x="322" y="146"/>
+      <point x="299" y="146" type="curve" smooth="yes"/>
+      <point x="265" y="146"/>
+      <point x="238" y="161"/>
+      <point x="233" y="195" type="curve"/>
+      <point x="20" y="195" type="line"/>
+      <point x="30" y="80"/>
+      <point x="137" y="-7"/>
+    </contour>
+    <contour>
+      <point x="603" y="636" type="line"/>
+      <point x="603" y="231" type="line" smooth="yes"/>
+      <point x="603" y="56"/>
+      <point x="703" y="0"/>
+      <point x="835" y="0" type="curve" smooth="yes"/>
+      <point x="919" y="0" type="line"/>
+      <point x="919" y="189" type="line"/>
+      <point x="866" y="189" type="line" smooth="yes"/>
+      <point x="837" y="189"/>
+      <point x="825" y="201"/>
+      <point x="825" y="227" type="curve" smooth="yes"/>
+      <point x="825" y="775" type="line"/>
+    </contour>
+    <component base="bout-e" xOffset="232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-11 08:57:01 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="1">
+  <advance width="354"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="period" xOffset="57" yOffset="360"/>
+    <component base="comma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 14:12:22 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+      <key>com.schriftgestaltung.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>x</key>
+          <integer>102</integer>
+          <key>y</key>
+          <integer>211</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>x</key>
+          <integer>331</integer>
+          <key>y</key>
+          <integer>200</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,0.5</string>
+    </dict>
+  </lib>
+</glyph>

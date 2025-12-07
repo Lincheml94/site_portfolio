@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="365"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="178" y="771" type="line"/>
+      <point x="79" y="771" type="line"/>
+      <point x="10" y="601" type="line"/>
+      <point x="84" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="771" type="line"/>
+      <point x="245" y="771" type="line"/>
+      <point x="170" y="601" type="line"/>
+      <point x="244" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="551" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 09:33:38 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>below</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

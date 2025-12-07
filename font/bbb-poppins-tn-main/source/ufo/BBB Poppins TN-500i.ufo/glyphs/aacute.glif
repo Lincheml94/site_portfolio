@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aacute" format="1">
+  <advance width="609"/>
+  <unicode hex="00E1"/>
+  <outline>
+    <component base="acute" xOffset="211" identifier="186DF211"/>
+    <component base="a" identifier="9F757EC1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 14:06:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>aacute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aacute</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>186DF211</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9F757EC1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

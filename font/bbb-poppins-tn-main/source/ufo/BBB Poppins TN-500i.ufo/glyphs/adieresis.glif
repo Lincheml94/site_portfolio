@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis" format="1">
+  <advance width="609"/>
+  <unicode hex="00E4"/>
+  <outline>
+    <component base="dieresis" xOffset="183" identifier="FDF5590D"/>
+    <component base="a" identifier="4AC6A7F7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 09:18:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>adieresis</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>adieresis</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4AC6A7F7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FDF5590D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

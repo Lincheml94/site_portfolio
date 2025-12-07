@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_u" format="1">
+  <advance width="701"/>
+  <unicode hex="F3350"/>
+  <outline>
+    <contour>
+      <point x="69" y="389" type="line"/>
+      <point x="291" y="392" type="line"/>
+      <point x="360" y="785" type="line"/>
+      <point x="116" y="655" type="line"/>
+    </contour>
+    <component base="u" xOffset="8" identifier="2E620B62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 14:44:06 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2E620B62</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

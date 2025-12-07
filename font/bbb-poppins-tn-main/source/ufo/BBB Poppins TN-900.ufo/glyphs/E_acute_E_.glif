@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute_E" format="1">
+  <advance width="1036"/>
+  <unicode hex="F1820"/>
+  <outline>
+    <contour>
+      <point x="430" y="708" type="line"/>
+      <point x="430" y="531" type="line"/>
+      <point x="576" y="531" type="line"/>
+      <point x="576" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="177" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="177" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="444" type="line"/>
+      <point x="430" y="277" type="line"/>
+      <point x="576" y="277" type="line"/>
+      <point x="576" y="444" type="line"/>
+    </contour>
+    <component base="Eacute"/>
+    <component base="E" xOffset="481" identifier="DCAC5CF9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 17:18:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>DCAC5CF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

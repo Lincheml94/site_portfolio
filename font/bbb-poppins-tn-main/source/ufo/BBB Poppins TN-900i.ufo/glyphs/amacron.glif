@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron" format="1">
+  <advance width="646"/>
+  <unicode hex="0101"/>
+  <outline>
+    <component base="macron" xOffset="122" identifier="C6E89E4A"/>
+    <component base="a" identifier="A94D6645"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 14:06:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>amacron</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>amacron</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A94D6645</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C6E89E4A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

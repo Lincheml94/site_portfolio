@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ygrave" format="1">
+  <advance width="595"/>
+  <unicode hex="1EF2"/>
+  <outline>
+    <component base="Y"/>
+    <component base="grave" xOffset="182" yOffset="145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 15:38:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

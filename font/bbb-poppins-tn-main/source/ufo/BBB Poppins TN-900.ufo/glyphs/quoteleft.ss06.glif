@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft.ss06" format="1">
+  <advance width="281"/>
+  <outline>
+    <contour>
+      <point x="76" y="565" type="curve"/>
+      <point x="232" y="565" type="line"/>
+      <point x="232" y="712" type="line"/>
+      <point x="160" y="712" type="line"/>
+      <point x="160" y="723" type="line" smooth="yes"/>
+      <point x="160" y="775"/>
+      <point x="180" y="798"/>
+      <point x="215" y="798" type="curve"/>
+      <point x="215" y="876" type="line"/>
+      <point x="101" y="876"/>
+      <point x="50" y="796"/>
+      <point x="50" y="700" type="curve" smooth="yes"/>
+      <point x="50" y="658"/>
+      <point x="58" y="612"/>
+    </contour>
+    <contour>
+      <point x="152" y="530" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>8</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

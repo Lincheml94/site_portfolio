@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="1">
+  <advance width="638"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="531" y="551" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="610" y="551" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

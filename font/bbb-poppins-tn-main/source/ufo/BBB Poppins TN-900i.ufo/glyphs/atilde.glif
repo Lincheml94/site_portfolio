@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde" format="1">
+  <advance width="646"/>
+  <unicode hex="00E3"/>
+  <outline>
+    <component base="tilde" xOffset="113" identifier="A9AA2230"/>
+    <component base="a" identifier="9C3D5676"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 08:49:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>atilde</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>atilde</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+      </dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9C3D5676</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A9AA2230</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

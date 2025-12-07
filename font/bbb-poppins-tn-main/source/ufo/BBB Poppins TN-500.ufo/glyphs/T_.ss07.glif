@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.ss07" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="39" y="602" type="line"/>
+      <point x="524" y="602" type="line"/>
+      <point x="524" y="695" type="line"/>
+      <point x="39" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="540" type="line"/>
+      <point x="225" y="603" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="339" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="282" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 13:59:24 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

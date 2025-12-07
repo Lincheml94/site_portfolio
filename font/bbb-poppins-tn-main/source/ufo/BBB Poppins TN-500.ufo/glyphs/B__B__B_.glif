@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B_B_B" format="1">
+  <advance width="986"/>
+  <outline>
+    <component base="B" xOffset="361" yOffset="-112" identifier="72FFFF71"/>
+    <component base="B" xScale="-1" xOffset="625" yOffset="-112" identifier="7D8E2852"/>
+    <component base="B" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="847" yOffset="415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 17:18:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|B</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>B</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>72FFFF71</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7D8E2852</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

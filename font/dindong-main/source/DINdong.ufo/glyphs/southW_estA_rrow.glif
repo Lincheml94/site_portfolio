@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="southWestArrow" format="2">
+  <advance width="1526"/>
+  <unicode hex="2199"/>
+  <outline>
+    <component base="southEastArrow" xScale="-1" xOffset="1526" yOffset="-60" identifier="91E1D0B0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-03-18 11:32:03 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>91E1D0B0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

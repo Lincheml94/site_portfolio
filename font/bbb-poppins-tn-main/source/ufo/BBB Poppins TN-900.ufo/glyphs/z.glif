@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="1">
+  <advance width="518"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="488" y="390" type="line"/>
+      <point x="488" y="564" type="line"/>
+      <point x="23" y="564" type="line"/>
+      <point x="23" y="380" type="line"/>
+      <point x="235" y="380" type="line"/>
+      <point x="20" y="174" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="184" type="line"/>
+      <point x="263" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="564" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-10 16:57:06 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

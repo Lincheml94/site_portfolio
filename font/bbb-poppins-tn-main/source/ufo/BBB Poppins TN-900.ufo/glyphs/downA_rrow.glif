@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downArrow" format="1">
+  <advance width="767"/>
+  <unicode hex="2193"/>
+  <outline>
+    <component base="rightArrow" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="109" yOffset="792"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-03-09 12:59:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>

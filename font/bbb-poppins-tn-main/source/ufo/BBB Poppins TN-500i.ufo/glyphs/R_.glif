@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="1">
+  <advance width="627"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="494" y="559"/>
+      <point x="481" y="487" type="curve" smooth="yes"/>
+      <point x="469" y="417"/>
+      <point x="420" y="368"/>
+      <point x="331" y="368" type="curve" smooth="yes"/>
+      <point x="205" y="368" type="line"/>
+      <point x="247" y="606" type="line"/>
+      <point x="373" y="606" type="line" smooth="yes"/>
+      <point x="462" y="606"/>
+    </contour>
+    <contour>
+      <point x="389" y="695" type="curve" smooth="yes"/>
+      <point x="149" y="695" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="189" y="278" type="line"/>
+      <point x="315" y="278" type="line" smooth="yes"/>
+      <point x="496" y="278"/>
+      <point x="581" y="388"/>
+      <point x="598" y="487" type="curve" smooth="yes"/>
+      <point x="618" y="600"/>
+      <point x="554" y="695"/>
+    </contour>
+    <contour>
+      <point x="391" y="315" type="line"/>
+      <point x="262" y="315" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="523" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="390" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 11:53:56 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

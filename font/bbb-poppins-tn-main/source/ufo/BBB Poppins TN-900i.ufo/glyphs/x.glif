@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="1">
+  <advance width="668"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="50" y="564" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="298" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="213" type="line"/>
+      <point x="265" y="375" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="204" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="371" type="line"/>
+      <point x="407" y="209" type="line"/>
+      <point x="709" y="564" type="line"/>
+      <point x="465" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-02-17 13:53:55 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

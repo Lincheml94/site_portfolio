@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.ss07" format="1">
+  <advance width="496"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="125" y="708" type="line"/>
+      <point x="347" y="708" type="line"/>
+      <point x="222" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="line"/>
+      <point x="356" y="168" type="line"/>
+      <point x="466" y="168" type="line"/>
+      <point x="436" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="217" y="10" type="move" name="commaaccent"/>
+    </contour>
+    <contour>
+      <point x="307" y="711" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="542" y="711" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-14 13:59:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>capHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,0.5</string>
+    </dict>
+  </lib>
+</glyph>

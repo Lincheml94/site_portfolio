@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="1">
+  <advance width="635"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="266" y="-9" type="curve" smooth="yes"/>
+      <point x="456" y="-9"/>
+      <point x="604" y="138"/>
+      <point x="604" y="327" type="curve" smooth="yes"/>
+      <point x="604" y="466"/>
+      <point x="506" y="560"/>
+      <point x="365" y="560" type="curve" smooth="yes"/>
+      <point x="173" y="560"/>
+      <point x="31" y="410"/>
+      <point x="31" y="223" type="curve" smooth="yes"/>
+      <point x="31" y="85"/>
+      <point x="125" y="-9"/>
+    </contour>
+    <contour>
+      <point x="280" y="87" type="curve" smooth="yes"/>
+      <point x="206" y="87"/>
+      <point x="149" y="135"/>
+      <point x="149" y="228" type="curve" smooth="yes"/>
+      <point x="149" y="352"/>
+      <point x="229" y="464"/>
+      <point x="349" y="464" type="curve" smooth="yes"/>
+      <point x="423" y="464"/>
+      <point x="486" y="416"/>
+      <point x="486" y="320" type="curve" smooth="yes"/>
+      <point x="486" y="198"/>
+      <point x="398" y="87"/>
+    </contour>
+    <contour>
+      <point x="365" y="560" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-04-15 09:32:31 +0000</string>
+      <key>com.schriftgestaltung.glyph.userData</key>
+      <dict>
+        <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+        <integer>4</integer>
+        <key>com.typesupply.AccentFactory.yCoordinates</key>
+        <dict>
+          <key>bottom</key>
+          <dict>
+            <key>name</key>
+            <string>origin</string>
+            <key>type</key>
+            <string>glyphMetric</string>
+          </dict>
+          <key>top</key>
+          <dict>
+            <key>name</key>
+            <string>xHeight</string>
+            <key>type</key>
+            <string>fontInfo</string>
+          </dict>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x_s_e.ss12" format="1">
+  <advance width="1304"/>
+  <unicode hex="F57B0"/>
+  <outline>
+    <contour>
+      <point x="747" y="369" type="curve"/>
+      <point x="966" y="369" type="line"/>
+      <point x="981" y="390"/>
+      <point x="1003" y="397"/>
+      <point x="1028" y="397" type="curve" smooth="yes"/>
+      <point x="1061" y="397"/>
+      <point x="1088" y="379"/>
+      <point x="1080" y="334" type="curve"/>
+      <point x="705" y="334" type="line"/>
+      <point x="689" y="243" type="line"/>
+      <point x="1286" y="243" type="line"/>
+      <point x="1291" y="257"/>
+      <point x="1295" y="273"/>
+      <point x="1297" y="287" type="curve" smooth="yes"/>
+      <point x="1328" y="464"/>
+      <point x="1228" y="571"/>
+      <point x="1059" y="571" type="curve" smooth="yes"/>
+      <point x="920" y="571"/>
+      <point x="801" y="498"/>
+    </contour>
+    <component base="x_s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-13 15:29:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,0.5</string>
+    </dict>
+  </lib>
+</glyph>

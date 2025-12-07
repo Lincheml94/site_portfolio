@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute_E" format="1">
+  <advance width="911"/>
+  <unicode hex="F1820"/>
+  <outline>
+    <contour>
+      <point x="461" y="696" type="line"/>
+      <point x="445" y="607" type="line"/>
+      <point x="591" y="607" type="line"/>
+      <point x="607" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="89" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="501" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="396" type="line"/>
+      <point x="393" y="308" type="line"/>
+      <point x="539" y="308" type="line"/>
+      <point x="555" y="396" type="line"/>
+    </contour>
+    <component base="Eacute"/>
+    <component base="E" xOffset="402" identifier="1B21422F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 15:36:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1B21422F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

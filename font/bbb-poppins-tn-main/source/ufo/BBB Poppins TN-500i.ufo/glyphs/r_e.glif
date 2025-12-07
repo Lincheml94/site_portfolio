@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r_e" format="1">
+  <advance width="943"/>
+  <unicode hex="F4510"/>
+  <outline>
+    <contour>
+      <point x="153" y="290" type="curve"/>
+      <point x="187" y="290" type="line"/>
+      <point x="208" y="407"/>
+      <point x="266" y="452"/>
+      <point x="350" y="452" type="curve" smooth="yes"/>
+      <point x="587" y="452" type="line"/>
+      <point x="713" y="560" type="line"/>
+      <point x="403" y="560" type="line" smooth="yes"/>
+      <point x="259" y="560"/>
+      <point x="179" y="433"/>
+    </contour>
+    <contour>
+      <point x="119" y="551" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="233" y="551" type="line"/>
+    </contour>
+    <component base="bout-e" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-04-03 14:56:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>r</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bout-e</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,0.5</string>
+    </dict>
+  </lib>
+</glyph>
